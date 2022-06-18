@@ -1,0 +1,10 @@
+[
+  {
+    "package": "getable",
+    "oncran": true
+  },
+  {
+    "package": "linguisticsdown",
+    "oncran": true
+  }
+]
