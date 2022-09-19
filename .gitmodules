@@ -8,3 +8,8 @@
 	url = https://github.com/liao961120/getable
 	shallow = true
 	registered = true
+[submodule "linguisticsdown"]
+	path = linguisticsdown
+	url = https://github.com/liao961120/linguisticsdown
+	shallow = true
+	registered = true
